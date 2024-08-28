@@ -77,6 +77,19 @@ B) Friend's List
 ### Add Expense
 ![image](https://github.com/user-attachments/assets/062987e1-3863-404d-829d-a70374e6bcf0)
 
+### Infrastructure Setup with Terraform ☁️
+Used Terraform to create an Amazon Aurora MySQL database in AWS (Amazon Web Services). Created a Virtual Private Cloud (VPC) and set up database clusters for the user and expense microservices.
+
+### Skills Developed 🛠️
+Frontend Development: React.js, Tailwind CSS, Material-UI
+Backend Development: Django REST Framework, SQLAlchemy ORM
+Database Management: MySQL, AWS Aurora MySQL
+Data Processing: NumPy, Pandas
+Microservices Architecture: Design and implementation of user and expense services
+Model-View-Template (MVT) Architecture: Application structure and data handling
+Infrastructure as Code: Terraform for cloud database setup
+Responsive Design: Tailwind CSS for multi-device support
+
 ## Acknowledgments 💖
 
 * To my family👪  and friends 👫 who always kept me motivated.
