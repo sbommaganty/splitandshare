@@ -81,14 +81,14 @@ B) Friend's List
 Used Terraform to create an Amazon Aurora MySQL database in AWS (Amazon Web Services). Created a Virtual Private Cloud (VPC) and set up database clusters for the user and expense microservices.
 
 ### Skills Developed 🛠️
-Frontend Development: React.js, Tailwind CSS, Material-UI
-Backend Development: Django REST Framework, SQLAlchemy ORM
-Database Management: MySQL, AWS Aurora MySQL
-Data Processing: NumPy, Pandas
-Microservices Architecture: Design and implementation of user and expense services
-Model-View-Template (MVT) Architecture: Application structure and data handling
-Infrastructure as Code: Terraform for cloud database setup
-Responsive Design: Tailwind CSS for multi-device support
+- **Frontend Development**: React.js, Tailwind CSS, Material-UI
+- **Backend Development**: Django REST Framework, SQLAlchemy ORM
+- **Database Management**: MySQL, AWS Aurora MySQL
+- **Data Processing**: NumPy, Pandas
+- **Microservices Architecture**: Design and implementation of user and expense services
+- **Model-View-Template (MVT) Architecture**: Application structure and data handling
+- **Infrastructure as Code**: Terraform for cloud database setup
+- **Responsive Design**: Tailwind CSS for multi-device support
 
 ## Acknowledgments 💖
 
