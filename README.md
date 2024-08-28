@@ -1,8 +1,8 @@
-# Splitwise-like Expense Sharing Application 💰
+# Expense Sharing Application 💰
 
 ## Description 📋
 
-Developed a Splitwise-like application to facilitate expense sharing and management within groups. Users can create groups, add members, log expenses, and track balances. The application features real-time updates and comprehensive expense tracking through an intuitive interface. The backend utilizes a microservices architecture with separate services for user management and expense tracking.
+Developed a expense sharing and management within groups. Users can create groups, add members, log expenses, and track balances. The application features real-time updates and comprehensive expense tracking through an intuitive interface. The backend utilizes a microservices architecture with separate services for user management and expense tracking.
 
 ## Key Features 🔑
 
