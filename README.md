@@ -1,4 +1,4 @@
-Splitwise-like Expense Sharing Application 💰
+Expense Sharing Application 💰
 Description 📋
 Overview: Developed a Splitwise-like application to manage and share expenses within groups. The app supports creating groups, adding members, logging expenses, and tracking balances, all through a user-friendly interface. It uses a microservices architecture to handle different aspects of the application efficiently.
 
@@ -60,6 +60,7 @@ Copy code
   - Navigate to the frontend directory and install dependencies with `npm install` or `yarn install`.
   - Start the React application with `npm start` or `yarn start`.
 - Access the application via your browser at `http://localhost:3000`.
+  
 Built With 🎯
 React.js
 Tailwind CSS
