@@ -41,10 +41,21 @@ Developed an expense sharing and management application designed to streamline g
 - **Visual Studio Code:** Recommended for code editing.
 
 ## Getting Started 🚀
-
+```bash
 1. **Clone the Repository:**
-   ```bash
    git clone <repository-url>
+    2. **Install Frontend Dependencies:
+    ```bash
+    cd frontend
+    npm install
+    npm start
+   
+    2. Install Backend Dependencies:
+    ```bash
+    cd backend
+    pip install -r requirements.txt
+    python manage.py runserver
+
 
 # Project Overview
 
