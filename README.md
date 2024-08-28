@@ -45,3 +45,6 @@ Developed an expense sharing and management application designed to streamline g
 1. **Clone the Repository:**
    ```bash
    git clone <repository-url>
+
+   ![image](https://github.com/user-attachments/assets/08fc4298-1a34-45ab-8158-3bfdc69184a1)
+
