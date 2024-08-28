@@ -46,6 +46,35 @@ Developed an expense sharing and management application designed to streamline g
    ```bash
    git clone <repository-url>
 
+# Project Overview
 
-![image](https://github.com/user-attachments/assets/030705be-c970-4780-8e8f-c76d09ed63e7)
+## Application Screenshots 📸
+
+### SplashScreen
+![image](https://github.com/user-attachments/assets/9fb4ead1-fb55-4339-b275-94cae7ba7c34)
+
+### LoginSignUpScreen
+A) SignIn
+![image](https://github.com/user-attachments/assets/482c3d32-4c2f-4fc2-bf8e-734ede866ef2)
+
+
+B) SignUp
+![image](https://github.com/user-attachments/assets/ef5fbbb6-5f45-4e7e-b186-6044717cf294)
+
+
+### Group Management
+![image](https://github.com/user-attachments/assets/34f37e03-3faf-4717-9156-a28e2923c1b0)
+
+
+### Expense Management
+A) Expenses List
+![image](https://github.com/user-attachments/assets/5ba65072-05b5-4038-a3e2-571294162a35)
+
+B) Friend's List
+![image](https://github.com/user-attachments/assets/851f27b5-5a2d-4595-9e3f-51421a0c194c)
+
+
+### Add Expense
+![image](https://github.com/user-attachments/assets/062987e1-3863-404d-829d-a70374e6bcf0)
+
 
