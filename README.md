@@ -77,4 +77,8 @@ B) Friend's List
 ### Add Expense
 ![image](https://github.com/user-attachments/assets/062987e1-3863-404d-829d-a70374e6bcf0)
 
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
 
