@@ -41,9 +41,9 @@ Developed an expense sharing and management application designed to streamline g
 - **Visual Studio Code:** Recommended for code editing.
 
 ## Getting Started 🚀
-```bash
-1. **Clone the Repository:**
-   git clone <repository-url>
+    ```bash
+    1. **Clone the Repository:**
+     git clone <repository-url>
     2. **Install Frontend Dependencies:
     ```bash
     cd frontend
