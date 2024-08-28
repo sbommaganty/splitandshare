@@ -1,8 +1,7 @@
 # Expense Sharing Application 💰
 
 ## Description 📋
-
-Developed a expense sharing and management within groups. Users can create groups, add members, log expenses, and track balances. The application features real-time updates and comprehensive expense tracking through an intuitive interface. The backend utilizes a microservices architecture with separate services for user management and expense tracking.
+Developed an expense sharing and management application designed to streamline group finances. The platform allows users to create and manage groups, add members, log expenses, and track balances with ease. It features real-time updates and detailed expense tracking through a user-friendly interface. The backend leverages a microservices architecture, with distinct services for user management and expense tracking, ensuring scalable and efficient handling of data and interactions.
 
 ## Key Features 🔑
 
