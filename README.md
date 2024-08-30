@@ -79,7 +79,7 @@ B) SignUp
 
 ### Expense Management
 A) Expenses List
-![image](https://github.com/user-attachments/assets/5ba65072-05b5-4038-a3e2-571294162a35)
+![Screenshot 2024-08-30 100116](https://github.com/user-attachments/assets/f3df00c5-cc23-4c9e-a100-ffd48b5f3712)
 
 B) Friend's List
 ![image](https://github.com/user-attachments/assets/851f27b5-5a2d-4595-9e3f-51421a0c194c)
